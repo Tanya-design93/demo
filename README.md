@@ -4,3 +4,8 @@ this is a simple text file
 ##Apache 2.0
 #Heading 2
 Just some file
+Something awesome happend
+something nice happend
+something bad happend
+*.log
+just some updates, on a branch
