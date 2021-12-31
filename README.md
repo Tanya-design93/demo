@@ -8,4 +8,4 @@ Something awesome happend
 something nice happend
 something bad happend
 *.log
-just some updates, on a branch
+I hope this isn't much of a problem
