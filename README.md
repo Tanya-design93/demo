@@ -9,3 +9,4 @@ something nice happend
 something bad happend
 *.log
 just some updates, on a branch
+This is bound to cause trouble 
