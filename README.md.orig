@@ -9,7 +9,8 @@ something nice happend
 something bad happend
 *.log
 <<<<<<< HEAD
-I hope this isn't much of a problem!
+I hope this isn't much of a problem
 =======
 just some updates, on a branch
-This is bound to cause trouble!!
+This is bound to cause trouble 
+>>>>>>> very-bad
