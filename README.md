@@ -13,3 +13,5 @@ I hope this isn't much of a problem!
 =======
 just some updates, on a branch
 This is bound to cause trouble!!
+*.log
+*.orig
